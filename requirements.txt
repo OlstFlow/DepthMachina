@@ -1,0 +1,6 @@
+# Add pinned dependencies here (pip -r requirements.txt --target _deps)
+#
+# Keep commercial-first. Avoid non-commercial licenses by default.
+
+# Used for EXIF-safe image previews in Blender UI.
+pillow

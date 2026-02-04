@@ -1,0 +1,11 @@
+# Optional MoGe-2 dependencies (installed via "Install MoGe-2 Dependencies")
+#
+# NOTE: utils3d + moge code are vendored into vendor/moge2/ (bundled reference copy in this repo),
+# so we don't install utils3d from git here.
+numpy
+pillow
+opencv-python
+scipy
+huggingface_hub
+torch
+torchvision
