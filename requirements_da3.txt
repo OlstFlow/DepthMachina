@@ -1,0 +1,13 @@
+# Optional Depth Anything 3 dependencies (installed via "Install Depth Anything 3 Dependencies")
+#
+# Commercial-first note:
+# - Depth Anything 3 code is Apache-2.0.
+# - Some DA3 models are CC BY-NC; we avoid them by default in UI.
+numpy
+pillow
+opencv-python
+huggingface_hub
+addict
+torch
+torchvision
+git+https://github.com/ByteDance-Seed/Depth-Anything-3.git
